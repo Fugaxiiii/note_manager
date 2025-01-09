@@ -1,9 +1,9 @@
-username='Fugaxiiii'
-title='greetings'
-content='practice_of_using_variables'
-status='in_progress'
-created_date='27.12.24'
-issue_date='27.01.25'
+username = 'Fugaxiiii'
+title = 'greetings'
+content = 'practice_of_using_variables'
+status = 'in_progress'
+created_date = '27.12.24'
+issue_date = '27.01.25'
 print("Имя пользователя:", username)
 print("Заголовок заметки", title)
 print("Описание заметки", content)
